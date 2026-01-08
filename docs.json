@@ -18,8 +18,7 @@
             "pages": [
               "index",
               "quickstart",
-              "development",
-              "changelog"
+              "development"
             ]
           },
           {
@@ -44,6 +43,12 @@
               "ai-tools/cursor",
               "ai-tools/claude-code",
               "ai-tools/windsurf"
+            ]
+          },
+          {
+            "group": "Changelog",
+            "pages": [
+              "changelog"
             ]
           }
         ]
